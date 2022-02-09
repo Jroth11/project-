@@ -1,1 +1,3 @@
-music.baDing.playUntilDone()
+color.setPalette(
+color.SteamPunk
+)

@@ -2,13 +2,17 @@
     "name": "project ",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "controller": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
